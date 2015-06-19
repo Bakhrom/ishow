@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "owner": {
+      "id": 1,
+      "full_name": "Ozodbek Nazarbekov",
+      "profile_image": "http://bakhrom.github.io/ishow/image/profile/1.jpg"
+    },
+    "creation_time": "2015-06-18 15:33:11",
+    "type": "TEXT",
+    "likes_count": 123,
+    "comments_count": 45,
+    "content": {
+      "text": "Ertaga konsert beraman, albatta kelinglar"
+    }
+  },
+  {
+    "id": 2,
+    "owner": {
+      "id": 1,
+      "full_name": "Ozodbek Nazarbekov",
+      "profile_image": "http://bakhrom.github.io/ishow/image/profile/1.jpg"
+    },
+    "creation_time": "2015-06-19 10:17:11",
+    "type": "PHOTO",
+    "likes_count": 123,
+    "comments_count": 66,
+    "content": {
+      "photo": {
+        "url": "http://bakhrom.github.io/ishow/image/feed/2.jpg",
+        "width": 320,
+        "height": 213
+      }
+    }
+  },
+  {
+    "id": 3,
+    "owner": {
+      "id": 1,
+      "full_name": "Ozodbek Nazarbekov",
+      "profile_image": "http://bakhrom.github.io/ishow/image/profile/1.jpg"
+    },
+    "creation_time": "2015-06-19 14:21:11",
+    "type": "AUDIO",
+    "likes_count": 789,
+    "comments_count": 35,
+    "content": {
+      "audio": {
+        "url": "http://bakhrom.github.io/ishow/audio/3.mp3",
+        "duration": 273,
+        "title": "Lola"
+      },
+      "text": "Yangi qo‘shiq chiqdi"
+    }
+  }
+]
