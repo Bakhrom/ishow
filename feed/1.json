@@ -11,7 +11,7 @@
     "likes_count": 123,
     "comments_count": 45,
     "content": {
-      "text": "Ertaga konsert beraman, albatta kelinglar"
+      "text": "Har bir kun sizlarga ham kutilmagan omadlarni olib kelsin. Hamisha baxtimga omon bo‘linglar, aziz muxlislarim!"
     }
   },
   {
@@ -30,7 +30,8 @@
         "url": "http://bakhrom.github.io/ishow/image/feed/2.jpg",
         "width": 320,
         "height": 213
-      }
+      },
+      "text": "Ertaga konsert beraman, albatta kelinglar"
     }
   },
   {
@@ -50,7 +51,7 @@
         "duration": 273,
         "title": "Lola"
       },
-      "text": "Yangi qo‘shiq chiqdi"
+      "text": "Yangi qo‘shiq chiqdi, tinglab zavq olinglar"
     }
   }
 ]
